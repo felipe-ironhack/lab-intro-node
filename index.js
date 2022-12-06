@@ -38,6 +38,7 @@ class SortedList {
 
     return this.sum() / this.length
   }
+  
 }
 
 module.exports = SortedList;
